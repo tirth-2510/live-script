@@ -16,7 +16,7 @@ app.add_middleware(
 # List of services to ping
 URLS = [
     "https://digibot.onrender.com",
-    "https://live-service.onrender.com"
+    "https://live-script.onrender.com"
 ]
 
 def ping_services():
